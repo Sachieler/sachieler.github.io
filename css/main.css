@@ -2040,7 +2040,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c3ffd5;
+  background: #5cff00;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3236,7 +3236,7 @@ pre .javascript .function {
 }
 .site-meta {
   height: 100px;
-  background-image: url("/images/meta.jpg");
+  background-image: url("/images/meta.jpdg");
   background-size: cover;
 }
 .header-inner {
